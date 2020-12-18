@@ -1,0 +1,17 @@
+$primary: #633A56;
+$secondary: #00EDA6;
+
+$p-font: 'Hind Madurai', sans-serif;
+$h-font: 'Montserrat', sans-serif;
+
+$padding-def: 100px;
+$padding-mob: 5%;
+
+// Breakpoints
+
+$breakpoints: (
+    'phone': 450px,
+    'tablet': 768px,
+    'bigTablet': 1024px,
+    'desktop': 1366px
+);
